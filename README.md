@@ -1,2 +1,1 @@
-# rubber
-LC
+READ ME k
